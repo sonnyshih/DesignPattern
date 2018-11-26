@@ -3,6 +3,7 @@ package com.DesignPattern.ObserverPattern.WeatherDemo;
 import com.DesignPattern.ObserverPattern.WeatherDemo.observer.CurrentConditionsDisplay;
 import com.DesignPattern.ObserverPattern.WeatherDemo.subject.WeatherData;
 
+/* ##### Observer Pattern 觀察者模式 ##### */
 public class WeatherStation {
 
     public static void main(String[] args) {

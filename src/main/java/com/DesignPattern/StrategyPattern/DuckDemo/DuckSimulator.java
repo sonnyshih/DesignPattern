@@ -5,6 +5,7 @@ import com.DesignPattern.StrategyPattern.DuckDemo.Duck.MallarDuck;
 import com.DesignPattern.StrategyPattern.DuckDemo.Duck.ModeDuck;
 import com.DesignPattern.StrategyPattern.DuckDemo.fly.FlyRocketPowered;
 
+/* ##### Strategy Pattern 策略模式 ##### */
 public class DuckSimulator {
 
     public static void main(String[] args) {

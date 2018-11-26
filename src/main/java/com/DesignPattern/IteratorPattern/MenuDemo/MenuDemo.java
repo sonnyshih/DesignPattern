@@ -3,7 +3,7 @@ package com.DesignPattern.IteratorPattern.MenuDemo;
 import com.DesignPattern.IteratorPattern.MenuDemo.menu.CafeMenu;
 import com.DesignPattern.IteratorPattern.MenuDemo.menu.DinerMenu;
 import com.DesignPattern.IteratorPattern.MenuDemo.menu.PancakeHouseMenu;
-
+/* ##### Iterator Pattern 反覆器模式 ##### */
 public class MenuDemo {
     public static void main(String[] args) {
         PancakeHouseMenu pancakeHouseMenu = new PancakeHouseMenu();

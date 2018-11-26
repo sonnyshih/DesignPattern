@@ -5,6 +5,7 @@ import com.DesignPattern.FactoryPattern.PizzaDemo1.base.PizzaStore;
 import com.DesignPattern.FactoryPattern.PizzaDemo1.store.ChicagoStylePizzaStore;
 import com.DesignPattern.FactoryPattern.PizzaDemo1.store.NYStylePizzaStore;
 
+/* ##### Factory Pattern 工廠模式 ##### */
 public class PizzaDemo {
 
     public static void main(String[] args) {

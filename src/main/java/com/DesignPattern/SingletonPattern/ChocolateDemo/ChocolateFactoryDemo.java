@@ -1,5 +1,6 @@
 package com.DesignPattern.SingletonPattern.ChocolateDemo;
 
+/* ##### Singleton Pattern 獨體模式 ##### */
 public class ChocolateFactoryDemo {
     public static void main(String[] args) {
 

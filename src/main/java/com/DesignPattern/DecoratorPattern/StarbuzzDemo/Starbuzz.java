@@ -8,6 +8,7 @@ import com.DesignPattern.DecoratorPattern.StarbuzzDemo.Condiment.Soy;
 import com.DesignPattern.DecoratorPattern.StarbuzzDemo.Condiment.Whip;
 import com.DesignPattern.DecoratorPattern.StarbuzzDemo.base.Beverage;
 
+/* ##### Decorator Pattern 裝式者模式 ##### */
 public class Starbuzz {
 
     public static void main(String[] args) {

@@ -7,6 +7,7 @@ import com.DesignPattern.CommandPattern.RemoteControlerDemo.RemoteControl.Simple
 import com.DesignPattern.CommandPattern.RemoteControlerDemo.base.Command;
 import com.DesignPattern.CommandPattern.RemoteControlerDemo.command.*;
 
+/* ##### Command Pattern 命令模式 ##### */
 public class RemoteControlDemo {
 
     public static void main(String[] args) {
